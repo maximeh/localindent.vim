@@ -12,7 +12,7 @@ indent settings.
 
 Use your favorite plugin manager and simply clone the repository where it
 should go :).
-I recommend '([pathogen](https://github.com/tpope/vim-pathogen)' for the simple
+I recommend '[pathogen](https://github.com/tpope/vim-pathogen)' for the simple
 reason that I am using it.
 
 ```
